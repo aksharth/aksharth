@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at (www.webbybutter.com)
 
-- 📝 I regularly write articles on (www.webbybutter.com/blog)
+- 📝 I regularly write articles on (https://webbybutter.com/blog)
 
 - 💬 Ask me about **react vue and node**
 
