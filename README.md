@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksharth&label=Profile%20views&color=0e75b6&style=flat" alt="aksharth" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.webbybutter.com](www.webbybutter.com)
+- 👨‍💻 All of my projects are available at <a>[https://www.webbybutter.com]</a>(www.webbybutter.com)
 
 - 📝 I regularly write articles on [https://www.webbybutter.com/blog](www.webbybutter.com/blog)
 
