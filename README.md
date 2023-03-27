@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksharth&label=Profile%20views&color=0e75b6&style=flat" alt="aksharth" /> </p>
 
-- 👨‍💻 All of my projects are available at (www.webbybutter.com)
+- 💬 Ask me about **angular react and node**
 
-- 📝 I regularly write articles on (https://webbybutter.com/blog)
-
-- 💬 Ask me about **react vue and node**
-
-- 📫 How to reach me **akshar@webbybutter.com**
+- 📫 How to reach me **aksharkthakkar55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
